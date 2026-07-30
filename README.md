@@ -1,11 +1,39 @@
 # ¡Hola! Soy Fabricio 👋
 
 ### 🚀 Sobre mí
-Desarrollador enfocado en **Ciencia de Datos**, **Desarrollo Web** y **Automatizaciones**. Me apasiona crear soluciones eficientes, trabajar con arquitecturas modernas y aplicar tecnología para resolver problemas del mundo real.
+Docente técnico, consultor tecnológico y desarrollador full stack con más de 20 años de experiencia en sistemas, electrónica aplicada, automatización, prototipado y educación. Me apasiona integrar tecnología de vanguardia, inteligencia artificial y arquitecturas modernas para resolver problemas complejos y potenciar vocaciones científicas.
 
-- 🎓 Estudiante de **Ciencia de Datos**, **Desarrollo Web** (UNdeC) y **Programación** (UTN).
-- 🛠️ Trabajando en proyectos de automatización, integración de APIs y análisis de datos.
-- 📬 Puedes contactarme en: **fabricioalvarez.dev@gmail.com** (o pon tu correo preferido)
+#### 🎓 Formación y Estudios
+- **Titulaciones de grado y tecnicaturas:**
+  - 🎓 **Tecnicatura Universitaria en Programación** — UTN FRCU.
+  - 🎓 **Tecnicatura Universitaria en Mantenimiento Industrial** — UNER FCAL.
+  - 🎓 **Tecnicatura Universitaria en Jardinería** — UNER FCA.
+  - 🎓 **Profesorado de Educación Secundaria en Modalidad Técnico Profesional** — ISFD Mariano Moreno.
+  - 🎓 **Técnico Electromecánico** — EET N°57.
+  - 🎓 **Tecnicatura Universitaria en Ciencia de Datos** *(En curso)* — UNdeC.
+  - 🎓 **Licenciatura en Ciberdefensa** — FADENA / UNDEF.
+  - 🎓 **Licenciatura en Análisis e Intervención de Instituciones Educativas** *(En curso)* — UNER FCEDU.
+
+  - 🎓 *Trayectos aprobados en Ingeniería en Automatización (UADER - 3 años) e Ingeniería en Sistemas de Información (UTN - 2 años).*
+
+- **Posgrados, Diplomaturas y Especializaciones Destacadas:**
+  - 🧠 **Posgrado en Redes Neuronales para el Manejo de Información** — UADER FCyT.
+  - 🤖 **Diplomatura Superior en Inteligencia Artificial para Docentes** — IUYMCA.
+  - 💻 **Especialización Superior en Didáctica de las Ciencias de la Computación** — UADER FCyT.
+  - ⚙️ **Especializaciones en Robótica, Programación y Automatización Industrial** — Fundación CIDETER / UNER / UTN FRBA (Movilidad Sustentable).
+
+---
+
+#### 💼 Experiencia y Roles Clave
+- 🏫 **Docente Titular (EET N°2 y EET N°6):** Dictado de asignaturas técnicas (*Electrónica General, Electrotecnia, Automatización Industrial, Laboratorio de Mediciones*).
+- 🔬 **Evaluador y Jurado de Ciencia y Tecnología:** Jurado en Ferias de Educación, Arte, Ciencia y Tecnología (Área Técnico Profesional) a nivel nacional, provincial y departamental (2015 - Actualidad).
+- 🧪 **Coordinador de Clubes de Ciencia (MINCYT):** Liderazgo de los clubes *"Albert Einstein"* y *"Habemus Electrón"*, mentoraciando proyectos científicos y tecnológicos premiados nacionalmente.
+- 👨‍💻 **Desarrollador Full Stack & Consultor Freelance:** Más de dos décadas desarrollando soluciones software/hardware, desarrollo web (PHP/Magento/WordPress), automatización de procesos, manufactura digital (CNC e impresión 3D) e integraciones con APIs.
+
+---
+
+📬 **Contacto:** [alvarezfa@fcal.uner.edu.ar](mailto:alvarezfa@fcal.uner.edu.ar)  
+🌐 **Ubicación:** San José, Entre Ríos, Argentina
 
 ---
 
@@ -16,13 +44,15 @@ Desarrollador enfocado en **Ciencia de Datos**, **Desarrollo Web** y **Automatiz
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### Frontend y Bases de Datos
+#### Frontend, Bases de Datos y Herramientas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
