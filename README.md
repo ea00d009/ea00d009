@@ -75,6 +75,8 @@ Docente técnico, consultor tecnológico y desarrollador full stack con más de 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
+---
+
 ### 📊 Mis Estadísticas y Actividad
 
 <p align="center">
