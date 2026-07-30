@@ -56,15 +56,26 @@ Docente técnico, consultor tecnológico y desarrollador full stack con más de 
 
 ---
 
-### 📊 Mis Estadísticas
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true" alt="Estadísticas de GitHub" />
-  <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial" alt="Lenguajes más usados" />
+### 📊 Mis Estadísticas y Actividad
+
+<p align="center">
+  <!-- Trofeos de logros en GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ea00d009&theme=radial&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trofeos de GitHub" />
 </p>
 
-<p align="right">
+<br>
+
+<p align="center">
+  <!-- Tarjeta principal de estadísticas -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true" alt="Estadísticas de GitHub" />
+  
+  <!-- Racha de contribuciones consecutivos -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ea00d009&theme=radial" alt="Racha de GitHub" />
-  <br>
+</p>
+
+<br>
+
+<p align="center">
+  <!-- Lenguajes más utilizados -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial" alt="Lenguajes más usados" />
 </p>
