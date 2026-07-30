@@ -57,8 +57,14 @@ Docente técnico, consultor tecnológico y desarrollador full stack con más de 
 ---
 
 ### 📊 Mis Estadísticas
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true" alt="Estadísticas de GitHub" />
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial" alt="Lenguajes más usados" />
+</p>
+
+<p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ea00d009&theme=radial" alt="Racha de GitHub" />
   <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial" alt="Lenguajes más usados" />
 </p>
