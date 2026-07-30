@@ -11,7 +11,7 @@ Docente técnico, consultor tecnológico y desarrollador full stack con más de 
   - 🎓 **Profesorado de Educación Secundaria en Modalidad Técnico Profesional** — ISFD Mariano Moreno.
   - 🎓 **Técnico Electromecánico** — EET N°57.
   - 🎓 **Tecnicatura Universitaria en Ciencia de Datos** *(En curso)* — UNdeC.
-  - 🎓 **Licenciatura en Ciberdefensa** — FADENA / UNDEF.
+  - 🎓 **Licenciatura en Ciberdefensa** *(En curso)* — FADENA / UNDEF.
   - 🎓 **Licenciatura en Análisis e Intervención de Instituciones Educativas** *(En curso)* — UNER FCEDU.
 
   - 🎓 *Trayectos aprobados en Ingeniería en Automatización (UADER - 3 años) e Ingeniería en Sistemas de Información (UTN - 2 años).*
@@ -58,7 +58,7 @@ Docente técnico, consultor tecnológico y desarrollador full stack con más de 
 
 ### 📊 Mis Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ea00d009&show_icons=true&theme=radial" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true" alt="Estadísticas de GitHub" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial" alt="Lenguajes más usados" />
 </p>
