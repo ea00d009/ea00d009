@@ -84,10 +84,19 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
-#### Sistemas Embebidos, Robótica y Hardware
+#### Sistemas Embebidos, Robótica, Automatización y Hardware
+![PIC Microcontrollers](https://img.shields.io/badge/PIC_Microcontrollers-00549E?style=for-the-badge&logo=microchip&logoColor=white)
+![PLC Automation](https://img.shields.io/badge/PLC_Automation-003366?style=for-the-badge&logo=siemens&logoColor=white)
+![CNC Machining](https://img.shields.io/badge/CNC_Machining-333333?style=for-the-badge&logo=autodesk&logoColor=white)
+![G-Code / M-Code](https://img.shields.io/badge/G--Code%2F%20M--Code-F37021?style=for-the-badge&logo=prusa&logoColor=white)
+![Electrónica Digital](https://img.shields.io/badge/Electr%C3%B3nica_Digital-008080?style=for-the-badge&logo=circuitverse&logoColor=white)
+![Electrónica Analógica](https://img.shields.io/badge/Electr%C3%B3nica_Anal%C3%B3gica-8A2BE2?style=for-the-badge&logo=resistor&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352F?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![SCADA / HMI](https://img.shields.io/badge/SCADA_--_HMI-005B94?style=for-the-badge&logo=schneiderelectric&logoColor=white)
+![FPGA / VHDL](https://img.shields.io/badge/FPGA_--_VHDL-002D62?style=for-the-badge&logo=intel&logoColor=white)
+![Klipper / Marlin](https://img.shields.io/badge/Klipper%2F_Marlin-EE3124?style=for-the-badge&logo=klipper&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-38B6FF?style=for-the-badge&logo=prusa&logoColor=white)
 
 #### Bases de Datos y Herramientas
