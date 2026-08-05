@@ -14,14 +14,22 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 
 ---
 
-### 🗄️ Competencias en Persistencia de Datos (NoSQL & NewSQL)
+### 🗄️ Competencias en Persistencia de Datos (SQL, NoSQL & NewSQL)
 - 📊 **Análisis y Selección de Arquitecturas:** Evaluación rigurosa de requerimientos de sistemas de información para seleccionar el modelo de persistencia más adecuado (Relacional, Documental, En Memoria, Grafos o NewSQL).
-- 📄 **Bases de Datos Documentales:** Modelado, diseño e implementación de soluciones escalables orientadas a documentos.
-- ⚡ **Bases de Datos en Memoria:** Diseño de capas de caching de alta velocidad y almacenamiento en memoria para optimizar tiempos de respuesta.
-- 🕸️ **Bases de Datos Orientadas a Grafos:** Modelado y diseño de estructuras de datos complejas, relaciones y redes de conocimiento.
+- 📄 **Bases de Datos Documentales:** Modelado, diseño e implementación de soluciones escalables orientadas a documentos (ej. MongoDB).
+- ⚡ **Bases de Datos en Memoria:** Diseño de capas de caching de alta velocidad y almacenamiento en memoria para optimizar tiempos de respuesta (ej. Redis).
+- 🕸️ **Bases de Datos Orientadas a Grafos:** Modelado y diseño de estructuras de datos complejas, relaciones y redes de conocimiento (ej. Neo4j).
+- 🏛️ **Bases de Datos Relacionales, Vectoriales & NewSQL:** Diseño de esquemas de datos ACID, búsquedas vectoriales para IA (ej. PostgreSQL + pgvector, MySQL).
 - 🛠️ **Desarrollo de Capas de Acceso (CRUD):** Implementación de operaciones CRUD y desarrollo de capas de datos robustas integradas mediante lenguajes de programación (TypeScript, Python, Java, C#).
-- 💻 **Entornos y Herramientas de Administración:** Uso de herramientas avanzadas para diseñar, implementar y administrar soluciones basadas en tecnologías NoSQL y NewSQL.
+- 💻 **Entornos y Herramientas de Administración:** Uso de herramientas avanzadas para diseñar, implementar y administrar soluciones basadas en tecnologías SQL, NoSQL y NewSQL.
 - 🔬 **Evaluación Crítica e Investigación:** Investigación continua, aprendizaje autónomo y análisis crítico de ventajas, limitaciones y escalabilidad en nuevas tecnologías de almacenamiento de datos.
+
+#### Tecnologías de Persistencia Integradas:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -151,7 +159,7 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 <br>
 
 <p align="center">
-  <!-- Estadísticas Principales -->
+  <!-- Estadística Principales -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true" alt="Estadísticas de GitHub" />
   
   <!-- Lenguajes más utilizados -->
