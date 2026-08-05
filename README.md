@@ -1,64 +1,77 @@
 # ¡Hola! Soy Fabricio 👋
 
-### 🚀 Sobre mí
+### 🤖 Sobre mí
 AI Solutions Engineer y Desarrollador Full Stack Senior con más de dos décadas de experiencia construyendo soluciones web robustas y escalables. Combino el pensamiento sistémico de mi formación electromecánica con la ingeniería de software moderna para diseñar **sistemas de Inteligencia Artificial, flujos de trabajo agénticos y arquitecturas multi-agente**.
 
 No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos viven, razonan e interactúan con usuarios y datos.
 
 ---
 
-### 🤖 Especialización en IA y Sistemas Agénticos
-- 🧠 **Orquestación Agéntica:** Construcción de aplicaciones con estado (*stateful*), arquitecturas multi-agente y flujos autónomos complejos utilizando **LangGraph**, **Model Context Protocol (MCP)** y entornos de desarrollo asistido (**Cursor**, **Claude Code**).
-- 🔍 **RAG & Ecosistema de Modelos:** Diseños de Generación Aumentada por Recuperación (*RAG*), integrando LLMs en la nube y locales, aplicando evaluaciones estrictas de precisión y alineación con la lógica de negocio.
-- 🛠️ **Infraestructura & Web Core:** Arquitecturas resilientes, APIs REST y GraphQL, optimización de rendimiento, caching y estándares WCAG.
+### 🧠 Especialización en IA y Sistemas Agénticos
+- 🔗 **Orquestación Agéntica:** Construcción de aplicaciones con estado (*stateful*), arquitecturas multi-agente y flujos autónomos complejos utilizando **LangGraph**, **Model Context Protocol (MCP)** y entornos de desarrollo asistido (**Cursor**, **Claude Code**).
+- 🎯 **RAG & Ecosistema de Modelos:** Diseños de Generación Aumentada por Recuperación (*RAG*), integrando LLMs en la nube y locales, aplicando evaluaciones estrictas de precisión y alineación con la lógica de negocio.
+- 🌐 **Infraestructura & Web Core:** Arquitecturas resilientes, APIs REST y GraphQL, optimización de rendimiento, caching y estándares WCAG.
 
 ---
 
 #### 🎓 Formación y Estudios
 - **Titulaciones de grado y tecnicaturas:**
-  - 🎓 **Tecnicatura Universitaria en Programación** — UTN FRCU.
-  - 🎓 **Tecnicatura Universitaria en Mantenimiento Industrial** — UNER FCAL.
-  - 🎓 **Tecnicatura Universitaria en Jardinería** — UNER FCA.
-  - 🎓 **Profesorado de Educación Secundaria en Modalidad Técnico Profesional** — ISFD Mariano Moreno.
-  - 🎓 **Técnico Electromecánico** — EET N°57.
-  - 🎓 **Tecnicatura Universitaria en Ciencia de Datos** *(En curso)* — UNdeC.
-  - 🎓 **Licenciatura en Ciberdefensa** *(En curso)* — FADENA / UNDEF.
-  - 🎓 **Licenciatura en Análisis e Intervención de Instituciones Educativas** *(En curso)* — UNER FCEDU.
-  - 🎓 *Trayectos aprobados en Ingeniería en Automatización (UADER - 3 años) e Ingeniería en Sistemas de Información (UTN - 2 años).*
+  - 💻 **Tecnicatura Universitaria en Programación** - UTN FRCU.
+  - ⚙️ **Tecnicatura Universitaria en Mantenimiento Industrial** - UNER FCAL.
+  - 🌿 **Tecnicatura Universitaria en Jardinería** - UNER FCA.
+  - 👨‍🏫 **Profesorado de Educación Secundaria en Modalidad Técnico Profesional** - ISFD Mariano Moreno.
+  - 🔌 **Técnico Electromecánico** - EET N°57.
+  - 📊 **Tecnicatura Universitaria en Ciencia de Datos** *(En curso)* - UNdeC.
+  - 🛡️ **Licenciatura en Ciberdefensa** *(En curso)* - FADENA / UNDEF.
+  - 🏛️ **Licenciatura en Análisis e Intervención de Instituciones Educativas** *(En curso)* - UNER FCEDU.
+  - 🛠️ *Trayectos aprobados en Ingeniería en Automatización (UADER - 3 años) e Ingeniería en Sistemas de Información (UTN - 2 años).*
 
 - **Posgrados, Diplomaturas y Especializaciones Destacadas:**
-  - 🧠 **Posgrado en Redes Neuronales para el Manejo de Información** — UADER FCyT.
-  - 🤖 **Diplomatura Superior en Inteligencia Artificial para Docentes** — IUYMCA.
-  - 💻 **Especialización Superior en Didáctica de las Ciencias de la Computación** — UADER FCyT.
-  - ⚙️ **Especializaciones en Robótica, Programación y Automatización Industrial** — Fundación CIDETER / UNER / UTN FRBA (Movilidad Sustentable).
+  - 🧠 **Posgrado en Redes Neuronales para el Manejo de Información** - UADER FCyT.
+  - 🤖 **Diplomatura Superior en Inteligencia Artificial para Docentes** - IUYMCA.
+  - 💻 **Especialización Superior en Didáctica de las Ciencias de la Computación** - UADER FCyT.
+  - ⚙️ **Especializaciones en Robótica, Programación y Automatización Industrial** - Fundación CIDETER / UNER / UTN FRBA (Movilidad Sustentable).
 
 ---
 
 #### 💼 Experiencia y Liderazgo Técnico
 - 👨‍💻 **AI Solutions & Full Stack Web Developer:** Más de 20 años diseñando e integrando ecosistemas web, e-commerce (Magento, WordPress/WooCommerce) y arquitecturas orientadas a IA.
-- 🏫 **Docente Titular (EET N°2 y EET N°6):** Dictado de asignaturas técnicas (*Electrónica General, Electrotecnia, Automatización Industrial, Laboratorio de Mediciones*).
-- 🔬 **Evaluador y Jurado de Ciencia y Tecnología:** Jurado en Ferias de Educación, Arte, Ciencia y Tecnología (Área Técnico Profesional) a nivel nacional, provincial y departamental (2015 - Actualidad).
-- 🧪 **Coordinador de Clubes de Ciencia (MINCYT):** Liderazgo de los clubes *"Albert Einstein"* y *"Habemus Electrón"*, mentoraciando proyectos científicos y tecnológicos premiados nacionalmente.
+- 👨‍🏫 **Docente Titular (EET N°2 y EET N°6):** Dictado de asignaturas técnicas (*Electrónica General, Electrotecnia, Automatización Industrial, Laboratorio de Mediciones*).
+- 🏆 **Evaluador y Jurado de Ciencia y Tecnología:** Jurado en Ferias de Educación, Arte, Ciencia y Tecnología (Área Técnico Profesional) a nivel nacional, provincial y departamental (2015 - Actualidad).
+- 🚀 **Coordinador de Clubes de Ciencia (MINCYT):** Liderazgo de los clubes *"Albert Einstein"* y *"Habemus Electrón"*, mentoraciando proyectos científicos y tecnológicos premiados nacionalmente.
 
 ---
 
-📬 **Contacto:** [alvarezfa@fcal.uner.edu.ar](mailto:alvarezfa@fcal.uner.edu.ar)  
-🌐 **Ubicación:** San José, Entre Ríos, Argentina
+📧 **Contacto:** [alvarezfa@fcal.uner.edu.ar](mailto:alvarezfa@fcal.uner.edu.ar)  
+📍 **Ubicación:** San José, Entre Ríos, Argentina
 
 ---
 
-### 💻 Stack Tecnológico
+### 🛠️ Stack Tecnológico
 
-#### Inteligencia Artificial, Agentes y Datos
+#### Inteligencia Artificial, Agentes y Ciencia de Datos
 ![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 #### Lenguajes, Frameworks y Backend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
@@ -71,6 +84,12 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
+#### Sistemas Embebidos, Robótica y Hardware
+![ESP32](https://img.shields.io/badge/ESP32-E7352F?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-38B6FF?style=for-the-badge&logo=prusa&logoColor=white)
+
 #### Bases de Datos y Herramientas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -78,7 +97,7 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 
 ---
 
-### 📬 Conectemos
+### 🌐 Conectemos
 
 <p align="center">
   <!-- Email -->
@@ -99,7 +118,7 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 
 ---
 
-### 📊 Mis Estadísticas y Actividad
+### 📈 Mis Estadísticas y Actividad
 
 <p align="center">
   <!-- Trofeos con servidor espejo estable -->
