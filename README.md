@@ -1,7 +1,7 @@
 # ¡Hola! Soy Fabricio 👋
 
 ### 🤖 Sobre mí
-AI Solutions Engineer y Desarrollador Full Stack Senior con más de dos décadas de experiencia construyendo soluciones web robustas y escalables. Combino el pensamiento sistémico de mi formación en electromecánica y electrónica con la ingeniería de software moderna para diseñar **sistemas de Inteligencia Artificial, flujos de trabajo agénticos y arquitecturas multi-agente**.
+AI Solutions Engineer y Desarrollador Full Stack Senior con más de dos décadas de experiencia construyendo soluciones web robustas y escalables. Combino el pensamiento sistémico de mi formación electromecánica con la ingeniería de software moderna para diseñar **sistemas de Inteligencia Artificial, flujos de trabajo agénticos y arquitecturas multi-agente**.
 
 No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos viven, razonan e interactúan con usuarios y datos.
 
@@ -11,6 +11,17 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 - 🔗 **Orquestación Agéntica:** Construcción de aplicaciones con estado (*stateful*), arquitecturas multi-agente y flujos autónomos complejos utilizando **LangGraph**, **Model Context Protocol (MCP)** y entornos de desarrollo asistido (**Cursor**, **Claude Code**).
 - 🎯 **RAG & Ecosistema de Modelos:** Diseños de Generación Aumentada por Recuperación (*RAG*), integrando LLMs en la nube y locales, aplicando evaluaciones estrictas de precisión y alineación con la lógica de negocio.
 - 🌐 **Infraestructura & Web Core:** Arquitecturas resilientes, APIs REST y GraphQL, optimización de rendimiento, caching y estándares WCAG.
+
+---
+
+### 🗄️ Competencias en Persistencia de Datos (NoSQL & NewSQL)
+- 📊 **Análisis y Selección de Arquitecturas:** Evaluación rigurosa de requerimientos de sistemas de información para seleccionar el modelo de persistencia más adecuado (Relacional, Documental, En Memoria, Grafos o NewSQL).
+- 📄 **Bases de Datos Documentales:** Modelado, diseño e implementación de soluciones escalables orientadas a documentos.
+- ⚡ **Bases de Datos en Memoria:** Diseño de capas de caching de alta velocidad y almacenamiento en memoria para optimizar tiempos de respuesta.
+- 🕸️ **Bases de Datos Orientadas a Grafos:** Modelado y diseño de estructuras de datos complejas, relaciones y redes de conocimiento.
+- 🛠️ **Desarrollo de Capas de Acceso (CRUD):** Implementación de operaciones CRUD y desarrollo de capas de datos robustas integradas mediante lenguajes de programación (TypeScript, Python, Java, C#).
+- 💻 **Entornos y Herramientas de Administración:** Uso de herramientas avanzadas para diseñar, implementar y administrar soluciones basadas en tecnologías NoSQL y NewSQL.
+- 🔬 **Evaluación Crítica e Investigación:** Investigación continua, aprendizaje autónomo y análisis crítico de ventajas, limitaciones y escalabilidad en nuevas tecnologías de almacenamiento de datos.
 
 ---
 
@@ -35,7 +46,7 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 ---
 
 #### 💼 Experiencia y Liderazgo Técnico
-- 👨‍💻 **AI Solutions & Full Stack Web Developer:** Más de 20 años diseñando e integrando ecosistemas web, e-commerce (Magento, WordPress/WooCommerce) y hace un par de años sumando arquitecturas orientadas a IA.
+- 👨‍💻 **AI Solutions & Full Stack Web Developer:** Más de 20 años diseñando e integrando ecosistemas web, e-commerce (Magento, WordPress/WooCommerce) y arquitecturas orientadas a IA.
 - 👨‍🏫 **Docente Titular (EET N°2 y EET N°6):** Dictado de asignaturas técnicas (*Electrónica General, Electrotecnia, Automatización Industrial, Laboratorio de Mediciones*).
 - 🏆 **Evaluador y Jurado de Ciencia y Tecnología:** Jurado en Ferias de Educación, Arte, Ciencia y Tecnología (Área Técnico Profesional) a nivel nacional, provincial y departamental (2015 - Actualidad).
 - 🚀 **Coordinador de Clubes de Ciencia (MINCYT):** Liderazgo de los clubes *"Albert Einstein"* y *"Habemus Electrón"*, mentoraciando proyectos científicos y tecnológicos premiados nacionalmente.
@@ -99,8 +110,11 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 ![Klipper / Marlin](https://img.shields.io/badge/Klipper%2F_Marlin-EE3124?style=for-the-badge&logo=klipper&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-38B6FF?style=for-the-badge&logo=prusa&logoColor=white)
 
-#### Bases de Datos y Herramientas
+#### Bases de Datos y Persistencia
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
