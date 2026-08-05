@@ -1,7 +1,7 @@
 # ¡Hola! Soy Fabricio 👋
 
 ### 🤖 Sobre mí
-AI Solutions Engineer y Desarrollador Full Stack Senior con más de dos décadas de experiencia construyendo soluciones web robustas y escalables. Combino el pensamiento sistémico de mi formación electromecánica con la ingeniería de software moderna para diseñar **sistemas de Inteligencia Artificial, flujos de trabajo agénticos y arquitecturas multi-agente**.
+AI Solutions Engineer y Desarrollador Full Stack Senior con más de dos décadas de experiencia construyendo soluciones web robustas y escalables. Combino el pensamiento sistémico de mi formación en electromecánica y electrónica con la ingeniería de software moderna para diseñar **sistemas de Inteligencia Artificial, flujos de trabajo agénticos y arquitecturas multi-agente**.
 
 No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos viven, razonan e interactúan con usuarios y datos.
 
@@ -35,7 +35,7 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 ---
 
 #### 💼 Experiencia y Liderazgo Técnico
-- 👨‍💻 **AI Solutions & Full Stack Web Developer:** Más de 20 años diseñando e integrando ecosistemas web, e-commerce (Magento, WordPress/WooCommerce) y arquitecturas orientadas a IA.
+- 👨‍💻 **AI Solutions & Full Stack Web Developer:** Más de 20 años diseñando e integrando ecosistemas web, e-commerce (Magento, WordPress/WooCommerce) y hace un par de años sumando arquitecturas orientadas a IA.
 - 👨‍🏫 **Docente Titular (EET N°2 y EET N°6):** Dictado de asignaturas técnicas (*Electrónica General, Electrotecnia, Automatización Industrial, Laboratorio de Mediciones*).
 - 🏆 **Evaluador y Jurado de Ciencia y Tecnología:** Jurado en Ferias de Educación, Arte, Ciencia y Tecnología (Área Técnico Profesional) a nivel nacional, provincial y departamental (2015 - Actualidad).
 - 🚀 **Coordinador de Clubes de Ciencia (MINCYT):** Liderazgo de los clubes *"Albert Einstein"* y *"Habemus Electrón"*, mentoraciando proyectos científicos y tecnológicos premiados nacionalmente.
