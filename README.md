@@ -151,17 +151,18 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 
 ### 📈 Mis Estadísticas y Actividad
 
-<p align="left">
+<p align="center">
   <!-- Trofeos con servidor espejo estable -->
   <img src="https://github-profile-trophy-zeta.vercel.app/?username=ea00d009&theme=radial&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trofeos de GitHub" />
 </p>
 
 <br>
 
-<p align="right">
+<p align="left">
   <!-- Estadística Principales -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true" alt="Estadísticas de GitHub" />
-  
+</p>
+  <p align="right">
   <!-- Lenguajes más utilizados -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial" alt="Lenguajes más usados" />
 </p>
