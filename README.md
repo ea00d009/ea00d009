@@ -161,8 +161,8 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
     <td align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true" alt="Estadísticas de Fabricio Alvarez" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial" alt="Lenguajes de Fabricio" />
+    <td align="center" >
+      <img style="vertical-align: top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial" alt="Lenguajes de Fabricio" />
     </td>
   </tr>
 </table>
