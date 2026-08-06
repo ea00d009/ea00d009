@@ -151,7 +151,7 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 
 ### 📈 Mis Estadísticas y Actividad
 
-<table align="center">
+<table align="center" border="0">
   <tr valign="top">
     <!-- Columna Izquierda: Trofeos -->
     <td valign="top" align="center">
