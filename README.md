@@ -151,29 +151,15 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 
 ### 📈 Mis Estadísticas y Actividad
 
-<div style="display: flex; gap: 20px; align-items: flex-start; justify-content: flex-start;">
-
-  <!-- Columna Izquierda: Trofeos -->
-  <div style="flex: 1; text-align: left; margin: 0; padding: 0;">
-    <p align="left" style="margin: 0;">
-      <img src="https://github-profile-trophy-zeta.vercel.app/?username=ea00d009&theme=radial&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trofeos de Fabricio Alvarez en GitHub" style="display: block;" />
-    </p>
-  </div>
-
-  <!-- Columna Derecha: Estadísticas y Lenguajes (Apilados) -->
-  <div style="flex: 1; text-align: left; margin: 0; padding: 0;">
-    <!-- Tarjeta de Estadísticas principales, alineada perfectamente en la parte superior -->
-    <p align="left" style="margin: 0;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true" alt="Estadísticas de Fabricio Alvarez" style="display: block;" />
-    </p>
-
-    <!-- Espaciado entre las dos tarjetas de la derecha -->
-    <div style="height: 10px;"></div>
-
-    <!-- Tarjeta de Lenguajes debajo, con el mismo ancho. -->
-    <p align="left" style="margin: 0;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial" alt="Lenguajes más usados por Fabricio Alvarez" style="display: block;" />
-    </p>
-  </div>
-
+<div>
+  <!-- Trofeos alineados a la izquierda para que actúen como "columna" -->
+  <img align="left" src="https://github-profile-trophy-zeta.vercel.app/?username=ea00d009&theme=radial&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trofeos de Fabricio Alvarez en GitHub" />
+  
+  <!-- Estadísticas y Lenguajes flotando a la derecha -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true&hide_border=true" alt="Estadísticas de Fabricio Alvarez" />
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados por Fabricio" />
 </div>
+
+<!-- Este salto de línea limpia la flotación para que el texto de abajo no se desordene -->
+<br clear="both" />
