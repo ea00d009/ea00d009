@@ -151,18 +151,19 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 
 ### 📈 Mis Estadísticas y Actividad
 
-<p align="center">
-  <!-- Trofeos con servidor espejo estable -->
-  <img src="https://github-profile-trophy-zeta.vercel.app/?username=ea00d009&theme=radial&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trofeos de GitHub" />
-</p>
-<br>
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true" alt="Estadísticas de Fabricio Alvarez" />
+    <!-- Columna Izquierda: Trofeos -->
+    <td valign="top" align="center">
+      <img src="https://github-profile-trophy-zeta.vercel.app/?username=ea00d009&theme=radial&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trofeos de Fabricio Alvarez en GitHub" />
     </td>
-    <td align="center" >
-      <img style="vertical-align: top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial" alt="Lenguajes de Fabricio" />
+    
+    <!-- Columna Derecha: Estadísticas y Lenguajes (Apilados) -->
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true" alt="Estadísticas de Fabricio Alvarez" />
+      <br>
+      <br>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial" alt="Lenguajes más usados por Fabricio" />
     </td>
   </tr>
 </table>
