@@ -165,10 +165,3 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
   <!-- Lenguajes más utilizados -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial" alt="Lenguajes más usados" />
 </p>
-
-<br>
-
-<p align="center">
-  <!-- Gráfico de Actividad de Commits -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ea00d009&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Gráfico de Actividad" />
-</p>
