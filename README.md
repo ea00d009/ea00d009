@@ -148,18 +148,11 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 </p>
 
 ---
-
 ### 📈 Mis Estadísticas y Actividad
 
-<div>
-  <!-- Trofeos alineados a la izquierda para que actúen como "columna" -->
-  <img align="left" src="https://github-profile-trophy-zeta.vercel.app/?username=ea00d009&theme=radial&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trofeos de Fabricio Alvarez en GitHub" />
-  
-  <!-- Estadísticas y Lenguajes flotando a la derecha -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true&hide_border=true" alt="Estadísticas de Fabricio Alvarez" />
-  <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados por Fabricio" />
-</div>
+<img align="left" width="380" src="https://github-profile-trophy-zeta.vercel.app/?username=ea00d009&theme=radial&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trofeos de Fabricio Alvarez en GitHub" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true&hide_border=true" alt="Estadísticas de Fabricio Alvarez" />
+<br>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados por Fabricio" />
 
-<!-- Este salto de línea limpia la flotación para que el texto de abajo no se desordene -->
 <br clear="both" />
