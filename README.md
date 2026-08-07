@@ -123,7 +123,7 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 
 ### 🌐 Conectemos
 
-<p align="center">
+<p align="left">
   <!-- Email -->
   <a href="mailto:alvarezfa@fcal.uner.edu.ar">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
