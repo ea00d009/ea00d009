@@ -24,13 +24,6 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 - 💻 **Entornos y Herramientas de Administración:** Uso de herramientas avanzadas para diseñar, implementar y administrar soluciones basadas en tecnologías SQL, NoSQL y NewSQL.
 - 🔬 **Evaluación Crítica e Investigación:** Investigación continua, aprendizaje autónomo y análisis crítico de ventajas, limitaciones y escalabilidad en nuevas tecnologías de almacenamiento de datos.
 
-#### Tecnologías de Persistencia Integradas:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
 ---
 
 #### 🎓 Formación y Estudios
@@ -149,10 +142,16 @@ No me limito a consumir APIs; diseño el ecosistema donde los agentes autónomos
 
 ---
 ### 📈 Mis Estadísticas y Actividad
-<div>
-  <img align="left" src="https://github-profile-trophy-zeta.vercel.app/?username=ea00d009&theme=radial&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trofeos de Fabricio Alvarez en GitHub" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true&hide_border=true" alt="Estadísticas de Fabricio Alvarez" />
-  <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados por Fabricio" />
-</div>
-<br clear="both" />
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-profile-trophy-zeta.vercel.app/?username=ea00d009&theme=radial&column=4&margin-w=15&margin-h=15&no-bg=true" />
+    </td>
+    <td valign="top">
+      <img width="430" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ea00d009&show_icons=true&theme=radial&count_private=true&hide_border=true" />
+      <br>
+      <img width="430" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ea00d009&layout=compact&theme=radial&hide_border=true" />
+    </td>
+  </tr>
+</table>
